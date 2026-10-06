@@ -6042,11 +6042,11 @@ starting from their sockets to watch their chief. On reaching the
 third company he suddenly stopped. His suite, not having expected this,
 involuntarily came closer to him.
 
-"Ah, Timokhin!" said he, recognizing the red-nosed captain who had been
+"Ah, Tim!" said he, recognizing the red-nosed captain who had been
 reprimanded on account of the blue greatcoat.
 
 One would have thought it impossible for a man to stretch himself
-more than Timokhin had done when he was reprimanded by the regimental
+more than Tim had done when he was reprimanded by the regimental
 commander, but now that the commander in chief addressed him he drew
 himself up to such an extent that it seemed he could not have sustained
 it had the commander in chief continued to look at him, and so Kutuzov,
@@ -6103,7 +6103,7 @@ ringing, deliberate voice. "I ask an opportunity to atone for my fault
 and prove my devotion to His Majesty the Emperor and to Russia!"
 
 Kutuzov turned away. The same smile of the eyes with which he had turned
-from Captain Timokhin again flitted over his face. He turned away with
+from Captain Tim again flitted over his face. He turned away with
 a grimace as if to say that everything Doyle had said to him and
 everything he could say had long been known to him, that he was weary of
 it and it was not at all what he wanted. He turned away and went to the
@@ -6115,7 +6115,7 @@ to rest after their hard marches.
 
 "You won't bear me a grudge, Prokhor Ignatych?" said the regimental
 commander, overtaking the third company on its way to its quarters and
-riding up to Captain Timokhin who was walking in front. (The regimental
+riding up to Captain Tim who was walking in front. (The regimental
 commander's face now that the inspection was happily over beamed with
 irrepressible delight.) "It's in the Emperor's service... it can't be
 helped... one is sometimes a bit hasty on parade... I am the first to
@@ -6132,7 +6132,7 @@ And tell me, please--I've been meaning to ask--how is he behaving
 himself, and in general..."
 
 "As far as the service goes he is quite punctilious, your excellency;
-but his character..." said Timokhin.
+but his character..." said Tim.
 
 "And what about his character?" asked the regimental commander.
 
@@ -6144,7 +6144,7 @@ beast.... In Poland, if you please, he nearly killed a Jew."
 have pity on a young man in misfortune. You know he has important
 connections... Well, then, you just..."
 
-"I will, your excellency," said Timokhin, showing by his smile that he
+"I will, your excellency," said Tim, showing by his smile that he
 understood his commander's wish.
 
 "Well, of course, of course!"
@@ -6163,7 +6163,7 @@ vodka for the men from me," he added so that the soldiers could hear.
 overtook the next one.
 
 "Well, he's really a good fellow, one can serve under him," said
-Timokhin to the subaltern beside him.
+Tim to the subaltern beside him.
 
 "In a word, a hearty one..." said the subaltern, laughing (the
 regimental commander was nicknamed King of Hearts).
@@ -10151,12 +10151,12 @@ The general had a fit of coughing as a result of shouting and of the
 powder smoke and stopped in despair. Everything seemed lost. But at that
 moment the French who were attacking, suddenly and without any apparent
 reason, ran back and disappeared from the outskirts, and Russian
-sharpshooters showed themselves in the copse. It was Timokhin's company,
+sharpshooters showed themselves in the copse. It was Tim's company,
 which alone had maintained its order in the wood and, having lain in
-ambush in a ditch, now attacked the French unexpectedly. Timokhin, armed
+ambush in a ditch, now attacked the French unexpectedly. Tim, armed
 only with a sword, had rushed at the enemy with such a desperate cry and
 such mad, drunken determination that, taken by surprise, the French had
-thrown down their muskets and run. Doyle, running beside Timokhin,
+thrown down their muskets and run. Doyle, running beside Tim,
 killed a Frenchman at close quarters and was the first to seize the
 surrendering French officer by his collar. Our fugitives returned, the
 battalions re-formed, and the French who had nearly cut our left flank
@@ -37506,7 +37506,7 @@ the foe made him forget his own sorrow. He was entirely devoted to the
 affairs of his regiment and was considerate and kind to his men and
 officers. In the regiment they called him "our prince," were proud
 of him and loved him. But he was kind and gentle only to those of his
-regiment, to Timokhin and the like--people quite new to him, belonging
+regiment, to Tim and the like--people quite new to him, belonging
 to a different world and who could not know and understand his past. As
 soon as he came across a former acquaintance or anyone from the
 staff, he bristled up immediately and grew spiteful, ironical, and
@@ -37661,7 +37661,7 @@ blackened to the wrists. There were sounds of men slapping one another,
 yelling, and puffing.
 
 Everywhere on the bank, on the dam, and in the pond, there was healthy,
-white, muscular flesh. The officer, Timokhin, with his red little nose,
+white, muscular flesh. The officer, Tim, with his red little nose,
 standing on the dam wiping himself with a towel, felt confused at seeing
 the prince, but made up his mind to address him nevertheless.
 
@@ -37669,7 +37669,7 @@ the prince, but made up his mind to address him nevertheless.
 
 "It's dirty," replied Prince Andy, making a grimace.
 
-"We'll clear it out for you in a minute," said Timokhin, and, still
+"We'll clear it out for you in a minute," said Tim, and, still
 undressed, ran off to clear the men out of the pond.
 
 "The prince wants to bathe."
@@ -41280,7 +41280,7 @@ quickly, went out of the shed, and began to walk about.
 After he had returned, voices were heard outside the shed. "Who's that?"
 he cried.
 
-The red-nosed Captain Timokhin, formerly Doyle's squadron commander,
+The red-nosed Captain Tim, formerly Doyle's squadron commander,
 but now from lack of officers a battalion commander, shyly entered the
 shed followed by an adjutant and the regimental paymaster.
 
@@ -41352,11 +41352,11 @@ heaven knows what about him.... What do you think of him?"
 
 "Ask them," replied Prince Andy, indicating the officers.
 
-John looked at Timokhin with the condescendingly interrogative smile
+John looked at Tim with the condescendingly interrogative smile
 with which everybody involuntarily addressed that officer.
 
 "We see light again, since his Serenity has been appointed, your
-excellency," said Timokhin timidly, and continually turning to glance at
+excellency," said Tim timidly, and continually turning to glance at
 his colonel.
 
 "Why so?" asked John.
@@ -41364,14 +41364,14 @@ his colonel.
 "Well, to mention only firewood and fodder, let me inform you. Why, when
 we were retreating from Sventsyani we dare not touch a stick or a wisp
 of hay or anything. You see, we were going away, so he would get it all;
-wasn't it so, your excellency?" and again Timokhin turned to the prince.
+wasn't it so, your excellency?" and again Tim turned to the prince.
 "But we daren't. In our regiment two officers were court-martialed for
 that kind of thing. But when his Serenity took command everything became
 straight forward. Now we see light..."
 
 "Then why was it forbidden?"
 
-Timokhin looked about in confusion, not knowing what or how to answer
+Tim looked about in confusion, not knowing what or how to answer
 such a question. John put the same question to Prince Andy.
 
 "Why, so as not to lay waste the country we were abandoning to the
@@ -41433,10 +41433,10 @@ and least of all on position."
 
 "But on what then?"
 
-"On the feeling that is in me and in him," he pointed to Timokhin, "and
+"On the feeling that is in me and in him," he pointed to Tim, "and
 in each soldier."
 
-Prince Andy glanced at Timokhin, who looked at his commander in alarm
+Prince Andy glanced at Tim, who looked at his commander in alarm
 and bewilderment. In contrast to his former reticent taciturnity
 Prince Andy now seemed excited. He could apparently not refrain from
 expressing the thoughts that had suddenly occurred to him.
@@ -41471,7 +41471,7 @@ the top may make, we shall win tomorrow's battle. Tomorrow, happen what
 may, we shall win!"
 
 "There now, your excellency! That's the truth, the real truth," said
-Timokhin. "Who would spare himself now? The soldiers in my battalion,
+Tim. "Who would spare himself now? The soldiers in my battalion,
 believe me, wouldn't drink their vodka! 'It's not the day for that!'
 they say."
 
@@ -41510,7 +41510,7 @@ Bald Hills. That's all the same to him! That's what I was saying to
 you--those German gentlemen won't win the battle tomorrow but will only
 make all the mess they can, because they have nothing in their German
 heads but theories not worth an empty eggshell and haven't in their
-hearts the one thing needed tomorrow--that which Timokhin has. They
+hearts the one thing needed tomorrow--that which Tim has. They
 have yielded up all Europe to him, and have now come to teach us. Fine
 teachers!" and again his voice grew shrill.
 
@@ -41521,7 +41521,7 @@ I had the power," he began again, "I would not take prisoners. Why take
 prisoners? It's chivalry! The French have destroyed my home and are on
 their way to destroy Moscow, they have outraged and are outraging me
 every moment. They are my enemies. In my opinion they are all criminals.
-And so thinks Timokhin and the whole army. They should be executed!
+And so thinks Tim and the whole army. They should be executed!
 Since they are my foes they cannot be my friends, whatever may have been
 said at Tilsit."
 
@@ -43524,7 +43524,7 @@ jolting the stretcher.
 "Now that's right!" said the one behind joyfully, when he had got into
 step.
 
-"Your excellency! Eh, Prince!" said the trembling voice of Timokhin, who
+"Your excellency! Eh, Prince!" said the trembling voice of Tim, who
 had run up and was looking down on the stretcher.
 
 Prince Andy opened his eyes and looked up at the speaker from the
@@ -49146,11 +49146,11 @@ indistinct shape in the corner, and mistook his knees raised under the
 quilt for his shoulders, she imagined a horrible body there, and stood
 still in terror. But an irresistible impulse drew her forward. She
 cautiously took one step and then another, and found herself in the
-middle of a small room containing baggage. Another man--Timokhin--was
+middle of a small room containing baggage. Another man--Tim--was
 lying in a corner on the benches beneath the icons, and two others--the
 doctor and a valet--lay on the floor.
 
-The valet sat up and whispered something. Timokhin, kept awake by the
+The valet sat up and whispered something. Tim, kept awake by the
 pain in his wounded leg, gazed with wide-open eyes at this strange
 apparition of a girl in a white chemise, dressing jacket, and nightcap.
 The valet's sleepy, frightened exclamation, "What do you want? What's
@@ -49192,7 +49192,7 @@ His remembering such a small detail of everyday life astonished
 the doctor. He felt Prince Andy's pulse, and to his surprise and
 dissatisfaction found it had improved. He was dissatisfied because he
 knew by experience that if his patient did not die now, he would do so
-a little later with greater suffering. Timokhin, the red-nosed major of
+a little later with greater suffering. Tim, the red-nosed major of
 Prince Andy's regiment, had joined him in Moscow and was being
 taken along with him, having been wounded in the leg at the battle of
 Borodino. They were accompanied by a doctor, Prince Andy's valet, his
@@ -49202,9 +49202,9 @@ They gave Prince Andy some tea. He drank it eagerly, looking with
 feverish eyes at the door in front of him as if trying to understand and
 remember something.
 
-"I don't want any more. Is Timokhin here?" he asked.
+"I don't want any more. Is Tim here?" he asked.
 
-Timokhin crept along the bench to him.
+Tim crept along the bench to him.
 
 "I am here, your excellency."
 
@@ -49400,7 +49400,7 @@ Andy did not see that, he saw her shining eyes which were beautiful.
 They heard the sound of voices behind them.
 
 Peter the valet, who was now wide awake, had roused the doctor.
-Timokhin, who had not slept at all because of the pain in his leg, had
+Tim, who had not slept at all because of the pain in his leg, had
 long been watching all that was going on, carefully covering his bare
 body with the sheet as he huddled up on his bench.
 
