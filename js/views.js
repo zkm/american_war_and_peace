@@ -103,7 +103,7 @@ export function coverHtml(book, resume) {
       <p class="by">${escapeHtml(book.author)}</p>
       <p class="blurb">
         Tolstoy’s novel of Russia during the Napoleonic wars, with a few “enhancements” of our own.
-        Pick up where you left off, or start in a Petersburg drawing room in July 1805.
+        Pick up where you left off, or start in a Petersburg living room in July 1805.
       </p>
 
       <div class="stats">
