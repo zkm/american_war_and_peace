@@ -11454,10 +11454,10 @@ daughter, but for a minister! For me, there are no ministers!"
 "You thought!" shouted the prince, his words coming more and more
 rapidly and indistinctly. "You thought!... Rascals! Blackguards!... I'll
 teach you to think!" and lifting his stick he swung it and would have
-hit Alpatych, the overseer, had not the latter instinctively avoided the
+hit Al, the overseer, had not the latter instinctively avoided the
 blow. "Thought... Blackguards..." shouted the prince rapidly.
 
-But although Alpatych, frightened at his own temerity in avoiding the
+But although Al, frightened at his own temerity in avoiding the
 stroke, came up to the prince, bowing his bald head resignedly before
 him, or perhaps for that very reason, the prince, though he continued to
 shout: "Blackguards!... Throw the snow back on the road!" did not lift
@@ -11514,7 +11514,7 @@ inquiringly.
 service," said the prince disdainfully. "Why his son is coming I don't
 understand. Perhaps Princess Elizabeth and Princess Mary know. I don't
 want him." (He looked at his blushing daughter.) "Are you unwell today?
-Eh? Afraid of the 'minister' as that idiot Alpatych called him this
+Eh? Afraid of the 'minister' as that idiot Al called him this
 morning?"
 
 "No, mon pere."
@@ -11540,7 +11540,7 @@ question as to how she felt.
 
 "Well, all right, all right."
 
-He left the room and went to the waiting room where Alpatych stood with
+He left the room and went to the waiting room where Al stood with
 bowed head.
 
 "Has the snow been shoveled back?"
@@ -11549,7 +11549,7 @@ bowed head.
 stupidity."
 
 "All right, all right," interrupted the prince, and laughing his
-unnatural way, he stretched out his hand for Alpatych to kiss, and then
+unnatural way, he stretched out his hand for Al to kiss, and then
 proceeded to his study.
 
 Prince Vince arrived that evening. He was met in the avenue by coachmen
@@ -36853,7 +36853,7 @@ his will, I expect." (One of the prince's favorite occupations of late
 had been the preparation of some papers he meant to leave at his death
 and which he called his "will.")
 
-"And Alpatych is being sent to Smolensk?" asked Princess Mary.
+"And Al is being sent to Smolensk?" asked Princess Mary.
 
 "Oh, yes, he has been waiting to start for some time."
 
@@ -36874,11 +36874,11 @@ to the Emperor after his death.
 When Michael Ivanovich went in there were tears in the prince's eyes
 evoked by the memory of the time when the paper he was now reading had
 been written. He took the letter from Michael Ivanovich's hand, put it
-in his pocket, folded up his papers, and called in Alpatych who had long
+in his pocket, folded up his papers, and called in Al who had long
 been waiting.
 
 The prince had a list of things to be bought in Smolensk and, walking
-up and down the room past Alpatych who stood by the door, he gave his
+up and down the room past Al who stood by the door, he gave his
 instructions.
 
 "First, notepaper--do you hear? Eight quires, like this sample,
@@ -36893,13 +36893,13 @@ Next, bolts for the doors of the new building were wanted and had to be
 of a special shape the prince had himself designed, and a leather case
 had to be ordered to keep the "will" in.
 
-The instructions to Alpatych took over two hours and still the prince
+The instructions to Al took over two hours and still the prince
 did not let him go. He sat down, sank into thought, closed his eyes, and
-dozed off. Alpatych made a slight movement.
+dozed off. Al made a slight movement.
 
 "Well, go, go! If anything more is wanted I'll send after you."
 
-Alpatych went out. The prince again went to his bureau, glanced into it,
+Al went out. The prince again went to his bureau, glanced into it,
 fingered his papers, closed the bureau again, and sat down at the table
 to write to the governor.
 
@@ -36986,26 +36986,26 @@ CHAPTER IV
 Bald Hills, Prince Nick Baker's estate, lay forty miles east
 from Smolensk and two miles from the main road to Moscow.
 
-The same evening that the prince gave his instructions to Alpatych,
+The same evening that the prince gave his instructions to Al,
 David, having asked to see Princess Mary, told her that, as the
 prince was not very well and was taking no steps to secure his safety,
 though from Prince Andy's letter it was evident that to remain at Bald
 Hills might be dangerous, he respectfully advised her to send a letter
-by Alpatych to the Provincial Governor at Smolensk, asking him to let
+by Al to the Provincial Governor at Smolensk, asking him to let
 her know the state of affairs and the extent of the danger to which
 Bald Hills was exposed. David wrote this letter to the Governor
-for Princess Mary, she signed it, and it was given to Alpatych with
+for Princess Mary, she signed it, and it was given to Al with
 instructions to hand it to the Governor and to come back as quickly as
 possible if there was danger.
 
-Having received all his orders Alpatych, wearing a white beaver hat--a
+Having received all his orders Al, wearing a white beaver hat--a
 present from the prince--and carrying a stick as the prince did,
 went out accompanied by his family. Three well-fed roans stood ready
 harnessed to a small conveyance with a leather hood.
 
 The larger bell was muffled and the little bells on the harness stuffed
 with paper. The prince allowed no one at Bald Hills to drive with
-ringing bells; but on a long journey Alpatych liked to have them. His
+ringing bells; but on a long journey Al liked to have them. His
 satellites--the senior clerk, a countinghouse clerk, a scullery maid,
 a cook, two old women, a little pageboy, the coachman, and various
 domestic serfs--were seeing him off.
@@ -37014,18 +37014,18 @@ His daughter placed chintz-covered down cushions for him to sit on and
 behind his back. His old sister-in-law popped in a small bundle, and one
 of the coachmen helped him into the vehicle.
 
-"There! There! Women's fuss! Women, women!" said Alpatych, puffing and
+"There! There! Women's fuss! Women, women!" said Al, puffing and
 speaking rapidly just as the prince did, and he climbed into the trap.
 
-After giving the clerk orders about the work to be done, Alpatych, not
+After giving the clerk orders about the work to be done, Al, not
 trying to imitate the prince now, lifted the hat from his bald head and
 crossed himself three times.
 
-"If there is anything... come back, Yakov Alpatych! For Christ's sake
+"If there is anything... come back, Yakov Al! For Christ's sake
 think of us!" cried his wife, referring to the rumors of war and the
 enemy.
 
-"Women, women! Women's fuss!" muttered Alpatych to himself and started
+"Women, women! Women's fuss!" muttered Al to himself and started
 on his journey, looking round at the fields of yellow rye and the
 still-green, thickly growing oats, and at other quite black fields just
 being plowed a second time.
@@ -37039,65 +37039,65 @@ prince's orders.
 Having baited the horses twice on the way, he arrived at the town toward
 evening on the fourth of August.
 
-Alpatych kept meeting and overtaking baggage trains and troops on the
+Al kept meeting and overtaking baggage trains and troops on the
 road. As he approached Smolensk he heard the sounds of distant firing,
 but these did not impress him. What struck him most was the sight of a
 splendid field of oats in which a camp had been pitched and which
 was being mown down by the soldiers, evidently for fodder. This fact
-impressed Alpatych, but in thinking about his own business he soon
+impressed Al, but in thinking about his own business he soon
 forgot it.
 
 All the interests of his life for more than thirty years had been
 bounded by the will of the prince, and he never went beyond that limit.
 Everything not connected with the execution of the prince's orders did
-not interest and did not even exist for Alpatych.
+not interest and did not even exist for Al.
 
 On reaching Smolensk on the evening of the fourth of August he put up
 in the Gachina suburb across the Dnieper, at the inn kept by Ferapontov,
 where he had been in the habit of putting up for the last thirty years.
-Some thirty years ago Ferapontov, by Alpatych's advice, had bought a
+Some thirty years ago Ferapontov, by Al's advice, had bought a
 wood from the prince, had begun to trade, and now had a house, an
 inn, and a corn dealer's shop in that province. He was a stout, dark,
 red-faced peasant in the forties, with thick lips, a broad knob of a
 nose, similar knobs over his black frowning brows, and a round belly.
 
 Wearing a waistcoat over his cotton shirt, Ferapontov was standing
-before his shop which opened onto the street. On seeing Alpatych he went
+before his shop which opened onto the street. On seeing Al he went
 up to him.
 
-"You're welcome, Yakov Alpatych. Folks are leaving the town, but you
+"You're welcome, Yakov Al. Folks are leaving the town, but you
 have come to it," said he.
 
-"Why are they leaving the town?" asked Alpatych.
+"Why are they leaving the town?" asked Al.
 
 "That's what I say. Folks are foolish! Always afraid of the French."
 
-"Women's fuss, women's fuss!" said Alpatych.
+"Women's fuss, women's fuss!" said Al.
 
-"Just what I think, Yakov Alpatych. What I say is: orders have been
+"Just what I think, Yakov Al. What I say is: orders have been
 given not to let them in, so that must be right. And the peasants are
 asking three rubles for carting--it isn't Christian!"
 
-Yakov Alpatych heard without heeding. He asked for a samovar and for hay
+Yakov Al heard without heeding. He asked for a samovar and for hay
 for his horses, and when he had had his tea he went to bed.
 
-All night long troops were moving past the inn. Next morning Alpatych
+All night long troops were moving past the inn. Next morning Al
 donned a jacket he wore only in town and went out on business. It was a
 sunny morning and by eight o'clock it was already hot. "A good day for
-harvesting," thought Alpatych.
+harvesting," thought Al.
 
 From beyond the town firing had been heard since early morning. At eight
 o'clock the booming of cannon was added to the sound of musketry. Many
 people were hurrying through the streets and there were many soldiers,
 but cabs were still driving about, tradesmen stood at their shops, and
-service was being held in the churches as usual. Alpatych went to the
+service was being held in the churches as usual. Al went to the
 shops, to government offices, to the post office, and to the Governor's.
 In the offices and shops and at the post office everyone was talking
 about the army and about the enemy who was already attacking the town,
 everybody was asking what should be done, and all were trying to calm
 one another.
 
-In front of the Governor's house Alpatych found a large number of
+In front of the Governor's house Al found a large number of
 people, Cossacks, and a traveling carriage of the Governor's. At the
 porch he met two of the landed gentry, one of whom he knew. This man, an
 ex-captain of police, was saying angrily:
@@ -37111,11 +37111,11 @@ brigands!..."
 "Oh come, that's enough!" said the other.
 
 "What do I care? Let him hear! We're not dogs," said the ex-captain of
-police, and looking round he noticed Alpatych.
+police, and looking round he noticed Al.
 
-"Oh, Yakov Alpatych! What have you come for?"
+"Oh, Yakov Al! What have you come for?"
 
-"To see the Governor by his excellency's order," answered Alpatych,
+"To see the Governor by his excellency's order," answered Al,
 lifting his head and proudly thrusting his hand into the bosom of his
 coat as he always did when he mentioned the prince.... "He has ordered
 me to inquire into the position of affairs," he added.
@@ -37128,13 +37128,13 @@ the sounds of firing.
 "They've brought us all to ruin... the brigands!" he repeated, and
 descended the porch steps.
 
-Alpatych swayed his head and went upstairs. In the waiting room were
+Al swayed his head and went upstairs. In the waiting room were
 tradesmen, women, and officials, looking silently at one another. The
 door of the Governor's room opened and they all rose and moved forward.
 An official ran out, said some words to a merchant, called a stout
 official with a cross hanging on his neck to follow him, and vanished
 again, evidently wishing to avoid the inquiring looks and questions
-addressed to him. Alpatych moved forward and next time the official came
+addressed to him. Al moved forward and next time the official came
 out addressed him, one hand placed in the breast of his buttoned coat,
 and handed him two letters.
 
@@ -37142,11 +37142,11 @@ and handed him two letters.
 announced with such solemnity and significance that the official turned
 to him and took the letters.
 
-A few minutes later the Governor received Alpatych and hurriedly said to
+A few minutes later the Governor received Al and hurriedly said to
 him:
 
 "Inform the prince and princess that I knew nothing: I acted on the
-highest instructions--here..." and he handed a paper to Alpatych.
+highest instructions--here..." and he handed a paper to Al.
 "Still, as the prince is unwell my advice is that they should go to
 Moscow. I am just starting myself. Inform them..."
 
@@ -37154,12 +37154,12 @@ But the Governor did not finish: a dusty perspiring officer ran into the
 room and began to say something in French. The Governor's face expressed
 terror.
 
-"Go," he said, nodding his head to Alpatych, and began questioning the
+"Go," he said, nodding his head to Al, and began questioning the
 officer.
 
-Eager, frightened, helpless glances were turned on Alpatych when he came
+Eager, frightened, helpless glances were turned on Al when he came
 out of the Governor's room. Involuntarily listening now to the firing,
-which had drawn nearer and was increasing in strength, Alpatych hurried
+which had drawn nearer and was increasing in strength, Al hurried
 to his inn. The paper handed to him by the Governor said this:
 
 
@@ -37185,25 +37185,25 @@ Loaded carts stood at the house next to Ferapontov's and women were
 wailing and lamenting as they said good-by. A small watchdog ran round
 barking in front of the harnessed horses.
 
-Alpatych entered the innyard at a quicker pace than usual and went
+Al entered the innyard at a quicker pace than usual and went
 straight to the shed where his horses and trap were. The coachman was
 asleep. He woke him up, told him to harness, and went into the passage.
 From the host's room came the sounds of a child crying, the despairing
 sobs of a woman, and the hoarse angry shouting of Ferapontov. The cook
 began running hither and thither in the passage like a frightened hen,
-just as Alpatych entered.
+just as Al entered.
 
 "He's done her to death. Killed the mistress!... Beat her... dragged her
 about so!..."
 
-"What for?" asked Alpatych.
+"What for?" asked Al.
 
 "She kept begging to go away. She's a woman! 'Take me away,' says she,
 'don't let me perish with my little children! Folks,' she says, 'are all
 gone, so why,' she says, 'don't we go?' And he began beating and pulling
 her about so!"
 
-At these words Alpatych nodded as if in approval, and not wishing to
+At these words Al nodded as if in approval, and not wishing to
 hear more went to the door of the room opposite the innkeeper's, where
 he had left his purchases.
 
@@ -37211,19 +37211,19 @@ he had left his purchases.
 in her arms and her kerchief torn from her head, burst through the door
 at that moment and down the steps into the yard.
 
-Ferapontov came out after her, but on seeing Alpatych adjusted his
-waistcoat, smoothed his hair, yawned, and followed Alpatych into the
+Ferapontov came out after her, but on seeing Al adjusted his
+waistcoat, smoothed his hair, yawned, and followed Al into the
 opposite room.
 
 "Going already?" said he.
 
-Alpatych, without answering or looking at his host, sorted his packages
+Al, without answering or looking at his host, sorted his packages
 and asked how much he owed.
 
 "We'll reckon up! Well, have you been to the Governor's?" asked
 Ferapontov. "What has been decided?"
 
-Alpatych replied that the Governor had not told him anything definite.
+Al replied that the Governor had not told him anything definite.
 
 "With our business, how can we get away?" said Ferapontov. "We'd have
 to pay seven rubles a cartload to Dorogobuzh and I tell them they're
@@ -37231,7 +37231,7 @@ not Christians to ask it! Selivanov, now, did a good stroke last
 Thursday--sold flour to the army at nine rubles a sack. Will you have
 some tea?" he added.
 
-While the horses were being harnessed Alpatych and Ferapontov over their
+While the horses were being harnessed Al and Ferapontov over their
 tea talked of the price of corn, the crops, and the good weather for
 harvesting.
 
@@ -37241,12 +37241,12 @@ The orders were not to let them in. So we're in force, it seems....
 They say the other day Matthew Ivanych Platov drove them into the river
 Marina and drowned some eighteen thousand in one day."
 
-Alpatych collected his parcels, handed them to the coachman who had come
+Al collected his parcels, handed them to the coachman who had come
 in, and settled up with the innkeeper. The noise of wheels, hoofs, and
 bells was heard from the gateway as a little trap passed out.
 
 It was by now late in the afternoon. Half the street was in shadow, the
-other half brightly lit by the sun. Alpatych looked out of the window
+other half brightly lit by the sun. Al looked out of the window
 and went to the door. Suddenly the strange sound of a far-off whistling
 and thud was heard, followed by a boom of cannon blending into a dull
 roar that set the windows rattling.
@@ -37281,7 +37281,7 @@ Others joined those men and stopped and told how cannon balls had fallen
 on a house close to them. Meanwhile still more projectiles, now with
 the swift sinister whistle of a cannon ball, now with the agreeable
 intermittent whistle of a shell, flew over people's heads incessantly,
-but not one fell close by, they all flew over. Alpatych was getting into
+but not one fell close by, they all flew over. Al was getting into
 his trap. The innkeeper stood at the gate.
 
 "What are you staring at?" he shouted to the cook, who in her red skirt,
@@ -37308,7 +37308,7 @@ souls!..."
 
 Five minutes later no one remained in the street. The cook, with her
 thigh broken by a shell splinter, had been carried into the kitchen.
-Alpatych, his coachman, Ferapontov's wife and children and the house
+Al, his coachman, Ferapontov's wife and children and the house
 porter were all sitting in the cellar, listening. The roar of guns, the
 whistling of projectiles, and the piteous moaning of the cook, which
 rose above the other sounds, did not cease for a moment. The mistress
@@ -37318,7 +37318,7 @@ in the street. A shopman who entered told her that her husband had
 gone with others to the cathedral, whence they were fetching the
 wonder-working icon of Smolensk.
 
-Toward dusk the cannonade began to subside. Alpatych left the cellar
+Toward dusk the cannonade began to subside. Al left the cellar
 and stopped in the doorway. The evening sky that had been so clear was
 clouded with smoke, through which, high up, the sickle of the new moon
 shone strangely. Now that the terrible din of the guns had ceased a hush
@@ -37328,7 +37328,7 @@ widespread everywhere. The cook's moans had now subsided. On two sides
 black curling clouds of smoke rose and spread from the fires. Through
 the streets soldiers in various uniforms walked or ran confusedly in
 different directions like ants from a ruined ant-hill. Several of them
-ran into Ferapontov's yard before Alpatych's eyes. Alpatych went out
+ran into Ferapontov's yard before Al's eyes. Al went out
 to the gate. A retreating regiment, thronging and hurrying, blocked the
 street.
 
@@ -37337,16 +37337,16 @@ get away!" and then, turning to the soldiers, shouted:
 
 "I'll teach you to run into the yards!"
 
-Alpatych went back to the house, called the coachman, and told him to
-set off. Ferapontov's whole household came out too, following Alpatych
+Al went back to the house, called the coachman, and told him to
+set off. Ferapontov's whole household came out too, following Al
 and the coachman. The women, who had been silent till then, suddenly
 began to wail as they looked at the fires--the smoke and even the flames
 of which could be seen in the failing twilight--and as if in reply
 the same kind of lamentation was heard from other parts of the street.
-Inside the shed Alpatych and the coachman arranged the tangled reins and
+Inside the shed Al and the coachman arranged the tangled reins and
 traces of their horses with trembling hands.
 
-As Alpatych was driving out of the gate he saw some ten soldiers in
+As Al was driving out of the gate he saw some ten soldiers in
 Ferapontov's open shop, talking loudly and filling their bags and
 knapsacks with flour and sunflower seeds. Just then Ferapontov returned
 and entered his shop. On seeing the soldiers he was about to shout at
@@ -37357,19 +37357,19 @@ and laughter:
 some bags of flour himself and throwing them into the street.
 
 Some of the soldiers were frightened and ran away, others went on
-filling their bags. On seeing Alpatych, Ferapontov turned to him:
+filling their bags. On seeing Al, Ferapontov turned to him:
 
-"Russia is done for!" he cried. "Alpatych, I'll set the place on fire
+"Russia is done for!" he cried. "Al, I'll set the place on fire
 myself. We're done for!..." and Ferapontov ran into the yard.
 
 Soldiers were passing in a constant stream along the street blocking
-it completely, so that Alpatych could not pass out and had to wait.
+it completely, so that Al could not pass out and had to wait.
 Ferapontov's wife and children were also sitting in a cart waiting till
 it was possible to drive out.
 
 Night had come. There were stars in the sky and the new moon shone out
 amid the smoke that screened it. On the sloping descent to the Dnieper
-Alpatych's cart and that of the innkeeper's wife, which were slowly
+Al's cart and that of the innkeeper's wife, which were slowly
 moving amid the rows of soldiers and of other vehicles, had to stop.
 In a side street near the crossroads where the vehicles had stopped, a
 house and some shops were on fire. This fire was already burning itself
@@ -37378,35 +37378,35 @@ suddenly flared up again brightly, lighting up with strange distinctness
 the faces of the people crowding at the crossroads. Black figures
 flitted about before the fire, and through the incessant crackling of
 the flames talking and shouting could be heard. Seeing that his trap
-would not be able to move on for some time, Alpatych got down and turned
+would not be able to move on for some time, Al got down and turned
 into the side street to look at the fire. Soldiers were continually
 rushing backwards and forwards near it, and he saw two of them and a
 man in a frieze coat dragging burning beams into another yard across the
 street, while others carried bundles of hay.
 
-Alpatych went up to a large crowd standing before a high barn which was
+Al went up to a large crowd standing before a high barn which was
 blazing briskly. The walls were all on fire and the back wall had fallen
 in, the wooden roof was collapsing, and the rafters were alight. The
-crowd was evidently watching for the roof to fall in, and Alpatych
+crowd was evidently watching for the roof to fall in, and Al
 watched for it too.
 
-"Alpatych!" a familiar voice suddenly hailed the old man.
+"Al!" a familiar voice suddenly hailed the old man.
 
-"Mercy on us! Your excellency!" answered Alpatych, immediately
+"Mercy on us! Your excellency!" answered Al, immediately
 recognizing the voice of his young prince.
 
 Prince Andy in his riding cloak, mounted on a black horse, was looking
-at Alpatych from the back of the crowd.
+at Al from the back of the crowd.
 
 "Why are you here?" he asked.
 
-"Your... your excellency," stammered Alpatych and broke into sobs. "Are
+"Your... your excellency," stammered Al and broke into sobs. "Are
 we really lost? Master!..."
 
 "Why are you here?" Prince Andy repeated.
 
 At that moment the flames flared up and showed his young master's pale
-worn face. Alpatych told how he had been sent there and how difficult it
+worn face. Al told how he had been sent there and how difficult it
 was to get away.
 
 "Are we really quite lost, your excellency?" he asked again.
@@ -37420,7 +37420,7 @@ within a week. Set off immediately for Moscow. Let me know at once when
 you will start. Send by special messenger to Usvyazh."
 
 
-Having written this and given the paper to Alpatych, he told him how
+Having written this and given the paper to Al, he told him how
 to arrange for departure of the prince, the princess, his son, and the
 boy's tutor, and how and where to let him know immediately. Before
 he had had time to finish giving these instructions, a chief of staff
@@ -37434,7 +37434,7 @@ commander of the left flank of the infantry of the first army, a place,
 as Donny said, "very agreeable and well en evidence."
 
 Prince Andy looked at him and without replying went on speaking to
-Alpatych.
+Al.
 
 "So tell them that I shall await a reply till the tenth, and if by the
 tenth I don't receive news that they have all got away I shall have to
@@ -37459,7 +37459,7 @@ The man in the frieze coat raised his arms and shouted:
 
 "That's the owner himself," cried several voices.
 
-"Well then," continued Prince Andy to Alpatych, "report to them as I
+"Well then," continued Prince Andy to Al, "report to them as I
 have told you"; and not replying a word to Donny who was now mute beside
 him, he touched his horse and rode down the side street.
 
@@ -37553,7 +37553,7 @@ Prince Andy rode up to the house. Several limes in the old garden had
 been cut down and a piebald mare and her foal were wandering in front of
 the house among the rosebushes. The shutters were all closed, except at
 one window which was open. A little serf boy, seeing Prince Andy, ran
-into the house. Alpatych, having sent his family away, was alone at
+into the house. Al, having sent his family away, was alone at
 Bald Hills and was sitting indoors reading the Lives of the Saints. On
 hearing that Prince Andy had come, he went out with his spectacles on
 his nose, buttoning his coat, and, hastily stepping up, without a word
@@ -37562,7 +37562,7 @@ began weeping and kissing Prince Andy's knee.
 Then, vexed at his own weakness, he turned away and began to report
 on the position of affairs. Everything precious and valuable had been
 removed to Bogucharovo. Seventy quarters of grain had also been carted
-away. The hay and the spring corn, of which Alpatych said there had been
+away. The hay and the spring corn, of which Al said there had been
 a remarkable crop that year, had been commandeered by the troops and
 mown down while still green. The peasants were ruined; some of them too
 had gone to Bogucharovo, only a few remained.
@@ -37572,7 +37572,7 @@ Without waiting to hear him out, Prince Andy asked:
 "When did my father and sister leave?" meaning when did they leave for
 Moscow.
 
-Alpatych, understanding the question to refer to their departure for
+Al, understanding the question to refer to their departure for
 Bogucharovo, replied that they had left on the seventh and again went
 into details concerning the estate management, asking for instructions.
 
@@ -37586,7 +37586,7 @@ were and only asked them to allay his grief.
 
 "Yes, let them have it," replied Prince Andy.
 
-"If you noticed some disorder in the garden," said Alpatych, "it was
+"If you noticed some disorder in the garden," said Al, "it was
 impossible to prevent it. Three regiments have been here and spent
 the night, dragoons mostly. I took down the name and rank of their
 commanding officer, to hand in a complaint about it."
@@ -37594,7 +37594,7 @@ commanding officer, to hand in a complaint about it."
 "Well, and what are you going to do? Will you stay here if the enemy
 occupies the place?" asked Prince Andy.
 
-Alpatych turned his face to Prince Andy, looked at him, and suddenly
+Al turned his face to Prince Andy, looked at him, and suddenly
 with a solemn gesture raised his arm.
 
 "He is my refuge! His will be done!" he exclaimed.
@@ -37602,11 +37602,11 @@ with a solemn gesture raised his arm.
 A group of bareheaded peasants was approaching across the meadow toward
 the prince.
 
-"Well, good-by!" said Prince Andy, bending over to Alpatych. "You
+"Well, good-by!" said Prince Andy, bending over to Al. "You
 must go away too, take away what you can and tell the serfs to go to the
 Ryazan estate or to the one near Moscow."
 
-Alpatych clung to Prince Andy's leg and burst into sobs. Gently
+Al clung to Prince Andy's leg and burst into sobs. Gently
 disengaging himself, the prince spurred his horse and rode down the
 avenue at a gallop.
 
@@ -38078,7 +38078,7 @@ CHAPTER VIII
 Princess Mary was not in Moscow and out of danger as Prince Andy
 supposed.
 
-After the return of Alpatych from Smolensk the old prince suddenly
+After the return of Al from Smolensk the old prince suddenly
 seemed to awake as from a dream. He ordered the militiamen to be called
 up from the villages and armed, and wrote a letter to the commander in
 chief informing him that he had resolved to remain at Bald Hills to the
@@ -38491,7 +38491,7 @@ at the same time simply, naturally, and forcibly. Now in 1812, to anyone
 living in close touch with these people it was apparent that these
 undercurrents were acting strongly and nearing an eruption.
 
-Alpatych, who had reached Bogucharovo shortly before the old prince's
+Al, who had reached Bogucharovo shortly before the old prince's
 death, noticed an agitation among the peasants, and that contrary to
 what was happening in the Bald Hills district, where over a radius of
 forty miles all the peasants were moving away and leaving their villages
@@ -38502,7 +38502,7 @@ migrate. He learned from domestic serfs loyal to him that the peasant
 Karp, who possessed great influence in the village commune and had
 recently been away driving a government transport, had returned with
 news that the Cossacks were destroying deserted villages, but that the
-French did not harm them. Alpatych also knew that on the previous day
+French did not harm them. Al also knew that on the previous day
 another peasant had even brought from the village of Visloukhovo, which
 was occupied by the French, a proclamation by a French general that no
 harm would be done to the inhabitants, and if they remained they would
@@ -38510,7 +38510,7 @@ be paid for anything taken from them. As proof of this the peasant had
 brought from Visloukhovo a hundred rubles in notes (he did not know that
 they were false) paid to him in advance for hay.
 
-More important still, Alpatych learned that on the morning of the
+More important still, Al learned that on the morning of the
 very day he gave the village Elder orders to collect carts to move the
 princess' luggage from Bogucharovo, there had been a village meeting at
 which it had been decided not to move but to wait. Yet there was no
@@ -38544,24 +38544,24 @@ account or the number of quarters of flour in any of the endless
 cartloads he sold for the prince, nor a single shock of the whole corn
 crop on any single acre of the Bogucharovo fields.
 
-Alpatych, arriving from the devastated Bald Hills estate, sent for his
+Al, arriving from the devastated Bald Hills estate, sent for his
 Dron on the day of the prince's funeral and told him to have twelve
 horses got ready for the princess' carriages and eighteen carts for
 the things to be removed from Bogucharovo. Though the peasants paid
-quitrent, Alpatych thought no difficulty would be made about complying
+quitrent, Al thought no difficulty would be made about complying
 with this order, for there were two hundred and thirty households at
 work in Bogucharovo and the peasants were well to do. But on hearing the
-order Dron lowered his eyes and remained silent. Alpatych named certain
+order Dron lowered his eyes and remained silent. Al named certain
 peasants he knew, from whom he told him to take the carts.
 
 Dron replied that the horses of these peasants were away carting.
-Alpatych named others, but they too, according to Dron, had no horses
+Al named others, but they too, according to Dron, had no horses
 available: some horses were carting for the government, others were too
 weak, and others had died for want of fodder. It seemed that no horses
 could be had even for the carriages, much less for the carting.
 
-Alpatych looked intently at Dron and frowned. Just as Dron was a model
-village Elder, so Alpatych had not managed the prince's estates for
+Al looked intently at Dron and frowned. Just as Dron was a model
+village Elder, so Al had not managed the prince's estates for
 twenty years in vain. He was a model steward, possessing in the highest
 degree the faculty of divining the needs and instincts of those he dealt
 with. Having glanced at Dron he at once understood that his answers did
@@ -38580,18 +38580,18 @@ hear?"
 
 "I hear," Dron answered without lifting his eyes.
 
-Alpatych was not satisfied with this reply.
+Al was not satisfied with this reply.
 
 "Eh, Dron, it will turn out badly!" he said, shaking his head.
 
 "The power is in your hands," Dron rejoined sadly.
 
-"Eh, Dron, drop it!" Alpatych repeated, withdrawing his hand from his
+"Eh, Dron, drop it!" Al repeated, withdrawing his hand from his
 bosom and solemnly pointing to the floor at Dron's feet. "I can see
 through you and three yards into the ground under you," he continued,
 gazing at the floor in front of Dron.
 
-Dron was disconcerted, glanced furtively at Alpatych and again lowered
+Dron was disconcerted, glanced furtively at Al and again lowered
 his eyes.
 
 "You drop this nonsense and tell the people to get ready to leave their
@@ -38601,17 +38601,17 @@ hear?"
 
 Dron suddenly fell on his knees.
 
-"Yakov Alpatych, discharge me! Take the keys from me and discharge me,
+"Yakov Al, discharge me! Take the keys from me and discharge me,
 for Christ's sake!"
 
-"Stop that!" cried Alpatych sternly. "I see through you and three yards
+"Stop that!" cried Al sternly. "I see through you and three yards
 under you," he repeated, knowing that his skill in beekeeping, his
 knowledge of the right time to sow the oats, and the fact that he had
 been able to retain the old prince's favor for twenty years had long
 since gained him the reputation of being a wizard, and that the power of
 seeing three yards under a man is considered an attribute of wizards.
 
-Dron got up and was about to say something, but Alpatych interrupted
+Dron got up and was about to say something, but Al interrupted
 him.
 
 "What is it you have got into your heads, eh?... What are you thinking
@@ -38620,10 +38620,10 @@ of, eh?"
 "What am I to do with the people?" said Dron. "They're quite beside
 themselves; I have already told them..."
 
-"'Told them,' I dare say!" said Alpatych. "Are they drinking?" he asked
+"'Told them,' I dare say!" said Al. "Are they drinking?" he asked
 abruptly.
 
-"Quite beside themselves, Yakov Alpatych; they've fetched another
+"Quite beside themselves, Yakov Al; they've fetched another
 barrel."
 
 "Well, then, listen! I'll go to the police officer, and you tell them
@@ -38631,10 +38631,10 @@ so, and that they must stop this and the carts must be got ready."
 
 "I understand."
 
-Alpatych did not insist further. He had managed people for a long time
+Al did not insist further. He had managed people for a long time
 and knew that the chief way to make them obey is to show no suspicion
 that they can possibly disobey. Having wrung a submissive "I understand"
-from Dron, Alpatych contented himself with that, though he not only
+from Dron, Al contented himself with that, though he not only
 doubted but felt almost certain that without the help of troops the
 carts would not be forthcoming.
 
@@ -38642,7 +38642,7 @@ And so it was, for when evening came no carts had been provided. In the
 village, outside the drink shop, another meeting was being held, which
 decided that the horses should be driven out into the woods and the
 carts should not be provided. Without saying anything of this to the
-princess, Alpatych had his own belongings taken out of the carts which
+princess, Al had his own belongings taken out of the carts which
 had arrived from Bald Hills and had those horses got ready for
 the princess' carriages. Meanwhile he went himself to the police
 authorities.
@@ -38655,7 +38655,7 @@ CHAPTER X
 
 
 After her father's funeral Princess Mary shut herself up in her room and
-did not admit anyone. A maid came to the door to say that Alpatych was
+did not admit anyone. A maid came to the door to say that Al was
 asking for orders about their departure. (This was before his talk with
 Dron.) Princess Mary raised herself on the sofa on which she had been
 lying and replied through the closed door that she did not mean to go
@@ -38708,7 +38708,7 @@ listening to the sound of her voice.
 "Your position is doubly terrible, dear princess," said Mademoiselle
 Bourienne after a pause. "I understand that you could not, and cannot,
 think of yourself, but with my love for you I must do so.... Has
-Alpatych been to you? Has he spoken to you of going away?" she asked.
+Al been to you? Has he spoken to you of going away?" she asked.
 
 Princess Mary did not answer. She did not understand who was to go or
 where to. "Is it possible to plan or think of anything now? Is it not
@@ -38722,7 +38722,7 @@ Princess Mary looked at her companion without understanding what she was
 talking about.
 
 "Oh, if anyone knew how little anything matters to me now," she said.
-"Of course I would on no account wish to go away from him.... Alpatych
+"Of course I would on no account wish to go away from him.... Al
 did say something about going.... Speak to him; I can do nothing,
 nothing, and don't want to...."
 
@@ -38751,7 +38751,7 @@ Princess Mary, with the paper in her hand, rose from the window and with
 a pale face went out of the room and into what had been Prince Andy's
 study.
 
-"Dunyasha, send Alpatych, or Dronushka, or somebody to me!" she said,
+"Dunyasha, send Al, or Dronushka, or somebody to me!" she said,
 "and tell Mademoiselle Bourienne not to come to me," she added, hearing
 Mademoiselle Bourienne's voice. "We must go at once, at once!" she said,
 appalled at the thought of being left in the hands of the French.
@@ -38785,7 +38785,7 @@ and took possession of her.
 Agitated and flushed she paced the room, sending now for Michael
 Ivanovich and now for Tikhon or Dron. Dunyasha, the nurse, and the other
 maids could not say in how far Mademoiselle Bourienne's statement was
-correct. Alpatych was not at home, he had gone to the police. Neither
+correct. Al was not at home, he had gone to the police. Neither
 could the architect Michael Ivanovich, who on being sent for came in
 with sleepy eyes, tell Princess Mary anything. With just the same smile
 of agreement with which for fifteen years he had been accustomed to
@@ -38809,7 +38809,7 @@ since our misfortune..." she began, but could not go on.
 
 They were silent for a while.
 
-"Dronushka, Alpatych has gone off somewhere and I have no one to turn
+"Dronushka, Al has gone off somewhere and I have no one to turn
 to. Is it true, as they tell me, that I can't even go away?"
 
 "Why shouldn't you go away, your excellency? You can go," said Dron.
@@ -38819,7 +38819,7 @@ can do nothing. I understand nothing. I have nobody! I want to go away
 tonight or early tomorrow morning."
 
 Dron paused. He looked askance at Princess Mary and said: "There are no
-horses; I told Yakov Alpatych so."
+horses; I told Yakov Al so."
 
 "Why are there none?" asked the princess.
 
@@ -38889,7 +38889,7 @@ wished to have word with their mistress.
 to let them have the grain."
 
 "Only, for God's sake, Princess dear, have them sent away and don't go
-out to them. It's all a trick," said Dunyasha, "and when Yakov Alpatych
+out to them. It's all a trick," said Dunyasha, "and when Yakov Al
 returns let us get away... and please don't..."
 
 "What is a trick?" asked Princess Mary in surprise.
@@ -39183,7 +39183,7 @@ running resolutely toward him.
 servant."
 
 "Co-o-om-pa-ny!" roared the tipsy peasant with a beatific smile as
-he looked at Ilyin talking to the girl. Following Dunyasha, Alpatych
+he looked at Ilyin talking to the girl. Following Dunyasha, Al
 advanced to Tyson, having bared his head while still at a distance.
 
 "May I make bold to trouble your honor?" said he respectfully, but with
@@ -39192,16 +39192,16 @@ thrust into his bosom. "My mistress, daughter of General in Chief Prince
 Nick Baker who died on the fifteenth of this month, finding
 herself in difficulties owing to the boorishness of these people"--he
 pointed to the peasants--"asks you to come up to the house.... Won't
-you, please, ride on a little farther," said Alpatych with a melancholy
+you, please, ride on a little farther," said Al with a melancholy
 smile, "as it is not convenient in the presence of...?" He pointed to
 the two peasants who kept as close to him as horseflies to a horse.
 
-"Ah!... Alpatych... Ah, Yakov Alpatych... Grand! Forgive us for Christ's
+"Ah!... Al... Ah, Yakov Al... Grand! Forgive us for Christ's
 sake, eh?" said the peasants, smiling joyfully at him.
 
 Tyson looked at the tipsy peasants and smiled.
 
-"Or perhaps they amuse your honor?" remarked Alpatych with a staid air,
+"Or perhaps they amuse your honor?" remarked Al with a staid air,
 as he pointed at the old men with his free hand.
 
 "No, there's not much to be amused at here," said Tyson, and rode on a
@@ -39214,25 +39214,25 @@ excellency cannot get away."
 
 "Impossible!" exclaimed Tyson.
 
-"I have the honor to report to you the actual truth," said Alpatych.
+"I have the honor to report to you the actual truth," said Al.
 
-Tyson dismounted, gave his horse to the orderly, and followed Alpatych
+Tyson dismounted, gave his horse to the orderly, and followed Al
 to the house, questioning him as to the state of affairs. It appeared
 that the princess' offer of corn to the peasants the previous day, and
 her talk with Dron and at the meeting, had actually had so bad an effect
 that Dron had finally given up the keys and joined the peasants and had
-not appeared when Alpatych sent for him; and that in the morning when
+not appeared when Al sent for him; and that in the morning when
 the princess gave orders to harness for her journey, the peasants had
 come in a large crowd to the barn and sent word that they would not let
 her leave the village: that there was an order not to move, and that
-they would unharness the horses. Alpatych had gone out to admonish them,
+they would unharness the horses. Al had gone out to admonish them,
 but was told (it was chiefly Karp who did the talking, Dron not showing
 himself in the crowd) that they could not let the princess go, that
 there was an order to the contrary, but that if she stayed they would
 serve her as before and obey her in everything.
 
 At the moment when Tyson and Ilyin were galloping along the road,
-Princess Mary, despite the dissuasions of Alpatych, her nurse, and the
+Princess Mary, despite the dissuasions of Al, her nurse, and the
 maids, had given orders to harness and intended to start, but when the
 cavalrymen were espied they were taken for Frenchmen, the coachman ran
 away, and the women in the house began to wail.
@@ -39299,19 +39299,19 @@ rapid steps to the village.
 "I'll show them; I'll give it to them, the brigands!" said he to
 himself.
 
-Alpatych at a gliding trot, only just managing not to run, kept up with
+Al at a gliding trot, only just managing not to run, kept up with
 him with difficulty.
 
 "What decision have you been pleased to come to?" said he.
 
 Tyson stopped and, clenching his fists, suddenly and sternly turned on
-Alpatych.
+Al.
 
 "Decision? What decision? Old dotard!..." cried he. "What have you been
 about? Eh? The peasants are rioting, and you can't manage them? You're
 a traitor yourself! I know you. I'll flay you all alive!..." And as if
-afraid of wasting his store of anger, he left Alpatych and went rapidly
-forward. Alpatych, mastering his offended feelings, kept pace with
+afraid of wasting his store of anger, he left Al and went rapidly
+forward. Al, mastering his offended feelings, kept pace with
 Tyson at a gliding gait and continued to impart his views. He said
 the peasants were obdurate and that at the present moment it would be
 imprudent to "overresist" them without an armed force, and would it not
@@ -39323,7 +39323,7 @@ vent it.
 
 Without considering what he would do he moved unconciously with quick,
 resolute steps toward the crowd. And the nearer he drew to it the more
-Alpatych felt that this unreasonable action might produce good results.
+Al felt that this unreasonable action might produce good results.
 The peasants in the crowd were similarly impressed when they saw
 Tyson's rapid, firm steps and resolute, frowning face.
 
@@ -39353,7 +39353,7 @@ Dron.
 "That's it--not against it! You've filled your belly...."
 
 The two tall peasants had their say. As soon as Tyson, followed by
-Ilyin, Lavrushka, and Alpatych, came up to the crowd, Karp, thrusting
+Ilyin, Lavrushka, and Al, came up to the crowd, Karp, thrusting
 his fingers into his belt and smiling a little, walked to the front.
 Dron on the contrary retired to the rear and the crowd drew closer
 together.
@@ -39381,14 +39381,14 @@ orders."
 
 "Arguing? Mutiny!... Brigands! Traitors!" cried Tyson unmeaningly in a
 voice not his own, gripping Karp by the collar. "Bind him, bind him!" he
-shouted, though there was no one to bind him but Lavrushka and Alpatych.
+shouted, though there was no one to bind him but Lavrushka and Al.
 
 Lavrushka, however, ran up to Karp and seized him by the arms from
 behind.
 
 "Shall I call up our men from beyond the hill?" he called out.
 
-Alpatych turned to the peasants and ordered two of them by name to come
+Al turned to the peasants and ordered two of them by name to come
 and bind Karp. The men obediently came out of the crowd and began taking
 off their belts.
 
@@ -39409,10 +39409,10 @@ houses at once, and don't let one of your voices be heard!"
 all nonsense... I said then that it was not in order," voices were heard
 bickering with one another.
 
-"There! What did I say?" said Alpatych, coming into his own again. "It's
+"There! What did I say?" said Al, coming into his own again. "It's
 wrong, lads!"
 
- "All our stupidity, Yakov Alpatych," came the answers, and the
+ "All our stupidity, Yakov Al," came the answers, and the
 crowd began at once to disperse through the village.
 
 The two bound men were led off to the master's house. The two drunken
@@ -57464,7 +57464,7 @@ her own fate and guardian and instructor of her nephew, was the first to
 be called back to life from that realm of sorrow in which she had dwelt
 for the first fortnight. She received letters from her relations to
 which she had to reply; the room in which little Nick had been put
-was damp and he began to cough; Alpatych came to Yaroslavl with reports
+was damp and he began to cough; Al came to Yaroslavl with reports
 on the state of their affairs and with advice and suggestions that they
 should return to Moscow to the house on the Vozdvizhenka Street, which
 had remained uninjured and needed only slight repairs. Life did not
@@ -57473,7 +57473,7 @@ Mary to emerge from the realm of secluded contemplation in which she
 had lived till then, and sorry and almost ashamed as she felt to leave
 Janet alone, yet the cares of life demanded her attention and she
 involuntarily yielded to them. She went through the accounts with
-Alpatych, conferred with David about her nephew, and gave orders and
+Al, conferred with David about her nephew, and gave orders and
 made preparations for the journey to Moscow.
 
 Janet remained alone and, from the time Princess Mary began making
