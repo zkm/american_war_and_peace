@@ -2,58 +2,76 @@
    Theme tokens
    ========================================================================== */
 
+/* Light is "Miami day": cream, hot pink and teal. */
 :root {
-  --bg: #fbfaf7;
+  --bg: #fff7f0;
   --panel: #ffffff;
-  --line: #e4e0d6;
-  --text: #24211d;
-  --muted: #6e675d;
-  --accent: #8c2f39;
-  --accent-soft: #f4e6e3;
-  --shadow: rgba(30, 20, 10, .18);
+  --line: #f1d8e4;
+  --text: #2a1840;
+  --muted: #76608a;
+  --accent: #d1146c;
+  --accent-2: #00879a;
+  --accent-soft: #ffe1ee;
+  --pop: #2a1840;
+  --shadow: rgba(42, 24, 64, .22);
+
+  /* The sunset stripe and the cover sky stay the same in every theme. */
+  --sunset: linear-gradient(90deg, #ffd23f, #ff7a3d 35%, #ff2e88 65%, #8a3ffc);
+  --sky: linear-gradient(180deg, #120630 0%, #2b0f5c 45%, #6a1a7a 75%, #c2347f 100%);
+  --neon-pink: #ff2e88;
+  --neon-cyan: #2de2e6;
 
   /* Reading size; js/prefs.js overrides this. */
   --size: 19px;
 
   --serif: "Literata", Georgia, serif;
   --sans: "Source Sans 3", system-ui, sans-serif;
+  --display: "Righteous", var(--sans);
+  --neon: "Monoton", var(--display);
 }
 
-/* Dark is listed twice: once for the system setting (when the reader hasn't
-   picked a theme) and once for an explicit choice. */
+/* Dark is "synthwave night". It's listed twice: once for the system setting
+   (when the reader hasn't picked a theme) and once for an explicit choice. */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
-    --bg: #131210;
-    --panel: #1b1a17;
-    --line: #2e2b26;
-    --text: #e2ddd3;
-    --muted: #9a9386;
-    --accent: #e08a8f;
-    --accent-soft: #3a2224;
-    --shadow: rgba(0, 0, 0, .5);
+    --bg: #150a2e;
+    --panel: #1f1142;
+    --line: #3a2468;
+    --text: #efe6ff;
+    --muted: #a996c9;
+    --accent: #ff5cab;
+    --accent-2: #2de2e6;
+    --accent-soft: #3b1650;
+    --pop: #2de2e6;
+    --shadow: rgba(0, 0, 0, .55);
   }
 }
 
 :root[data-theme="dark"] {
-  --bg: #131210;
-  --panel: #1b1a17;
-  --line: #2e2b26;
-  --text: #e2ddd3;
-  --muted: #9a9386;
-  --accent: #e08a8f;
-  --accent-soft: #3a2224;
-  --shadow: rgba(0, 0, 0, .5);
+  --bg: #150a2e;
+  --panel: #1f1142;
+  --line: #3a2468;
+  --text: #efe6ff;
+  --muted: #a996c9;
+  --accent: #ff5cab;
+  --accent-2: #2de2e6;
+  --accent-soft: #3b1650;
+  --pop: #2de2e6;
+  --shadow: rgba(0, 0, 0, .55);
 }
 
+/* Sepia is "sunset": warm peach with magenta and orange. */
 :root[data-theme="sepia"] {
-  --bg: #f3e9d6;
-  --panel: #f8f0e0;
-  --line: #e0d2b8;
-  --text: #3b2f22;
-  --muted: #7a6750;
-  --accent: #8c2f39;
-  --accent-soft: #ead8c2;
-  --shadow: rgba(60, 40, 10, .2);
+  --bg: #ffeadb;
+  --panel: #fff4ea;
+  --line: #f3cdb7;
+  --text: #3d1f2e;
+  --muted: #84586a;
+  --accent: #c2255c;
+  --accent-2: #b8530f;
+  --accent-soft: #ffd6c4;
+  --pop: #3d1f2e;
+  --shadow: rgba(80, 30, 20, .22);
 }
 
 
@@ -78,6 +96,11 @@ body {
   background: var(--bg);
   color: var(--text);
   font: 16px/1.5 var(--sans);
+}
+
+::selection {
+  background: var(--neon-pink);
+  color: #fff;
 }
 
 a {
@@ -108,13 +131,14 @@ button {
   border-bottom: 1px solid var(--line);
 }
 
+/* The sunset stripe fills in as you read. */
 .progress {
   position: absolute;
   left: 0;
   bottom: -1px;
   width: 0;
-  height: 2px;
-  background: var(--accent);
+  height: 3px;
+  background: var(--sunset) 0 0 / 100vw 100%;
   transition: width .2s;
 }
 
@@ -137,11 +161,11 @@ button {
 
 .btn:hover {
   background: var(--accent-soft);
-  color: var(--text);
+  color: var(--accent);
 }
 
 .btn:focus-visible {
-  outline: 2px solid var(--accent);
+  outline: 2px solid var(--accent-2);
   outline-offset: 1px;
 }
 
@@ -167,7 +191,8 @@ button {
 
 .where b {
   color: var(--text);
-  font-weight: 600;
+  font: 400 15px var(--display);
+  letter-spacing: .04em;
 }
 
 
@@ -215,13 +240,14 @@ body.toc-open .drawer {
   align-items: center;
   justify-content: space-between;
   padding: 12px 12px 12px 18px;
-  border-bottom: 1px solid var(--line);
+  border-bottom: 3px solid transparent;
+  border-image: var(--sunset) 1;
 }
 
 .drawer header h2 {
   margin: 0;
-  font-size: 15px;
-  font-weight: 600;
+  font: 400 17px var(--display);
+  letter-spacing: .04em;
 }
 
 .drawer header h2 a {
@@ -243,10 +269,14 @@ body.toc-open .drawer {
   justify-content: space-between;
   gap: 8px;
   padding: 11px 18px;
-  font-size: 15px;
-  font-weight: 600;
+  font: 400 16px var(--display);
+  letter-spacing: .02em;
   list-style: none;
   cursor: pointer;
+}
+
+.toc details[open] summary {
+  color: var(--accent);
 }
 
 .toc summary::-webkit-details-marker {
@@ -255,8 +285,7 @@ body.toc-open .drawer {
 
 .toc summary span {
   color: var(--muted);
-  font-size: 13px;
-  font-weight: 400;
+  font: 400 13px var(--sans);
 }
 
 .toc .chapters {
@@ -279,11 +308,13 @@ body.toc-open .drawer {
 
 .toc .chapters a:hover {
   background: var(--accent-soft);
+  color: var(--accent);
 }
 
 .toc .chapters a[aria-current="true"] {
-  background: var(--accent);
-  color: var(--panel);
+  background: linear-gradient(135deg, #ff7a3d, #ff2e88);
+  color: #fff;
+  font-weight: 600;
 }
 
 
@@ -291,29 +322,95 @@ body.toc-open .drawer {
    Cover page
    ========================================================================== */
 
-.cover {
+/* The hero is a night sky in every theme, like a cassette cover: a striped
+   sun sinking into a neon grid, with the title in neon tubes. */
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: var(--sky);
+  color: #fff;
+}
+
+.sky {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.sun {
+  position: absolute;
+  right: max(4vw, calc(50% - 470px));
+  bottom: 34%;
+  width: clamp(150px, 26vw, 300px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #ffe45c 0%, #ffa43d 40%, #ff4f8b 75%, #d6267f 100%);
+  box-shadow: 0 0 60px rgba(255, 79, 139, .55);
+  /* Horizontal bands cut out of the lower half, getting thicker toward the
+     horizon. */
+  -webkit-mask: linear-gradient(180deg,
+    #000 0 50%, transparent 50% 53%, #000 53% 62%, transparent 62% 66%,
+    #000 66% 74%, transparent 74% 79%, #000 79% 86%, transparent 86% 92%,
+    #000 92% 100%);
+  mask: linear-gradient(180deg,
+    #000 0 50%, transparent 50% 53%, #000 53% 62%, transparent 62% 66%,
+    #000 66% 74%, transparent 74% 79%, #000 79% 86%, transparent 86% 92%,
+    #000 92% 100%);
+  transform: translateY(50%);
+}
+
+.grid {
+  position: absolute;
+  left: -50%;
+  right: -50%;
+  bottom: 0;
+  height: 34%;
+  background:
+    linear-gradient(180deg, #2b0f5c 0%, transparent 35%),
+    repeating-linear-gradient(90deg, transparent 0 58px, rgba(45, 226, 230, .75) 58px 60px),
+    repeating-linear-gradient(180deg, transparent 0 22px, rgba(255, 46, 136, .8) 22px 24px),
+    #12062e;
+  border-top: 2px solid var(--neon-pink);
+  box-shadow: 0 -4px 18px rgba(255, 46, 136, .6);
+  transform: perspective(240px) rotateX(48deg);
+  transform-origin: 50% 100%;
+}
+
+.hero-inner {
+  position: relative;
   max-width: 760px;
   margin: 0 auto;
-  padding: 64px 20px 96px;
+  padding: 72px 20px 150px;
+}
+
+.cover-body {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 20px 96px;
 }
 
 .cover .kicker {
-  color: var(--accent);
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: .12em;
+  color: var(--neon-cyan);
+  font: 400 15px var(--display);
+  letter-spacing: .16em;
   text-transform: uppercase;
+  text-shadow: 0 0 10px rgba(45, 226, 230, .6);
 }
 
 .cover h1 {
-  margin: 10px 0 8px;
-  font: 600 clamp(40px, 9vw, 72px)/1.05 var(--serif);
-  letter-spacing: -.01em;
+  max-width: 11em;
+  margin: 14px 0 10px;
+  color: #fff;
+  font: 400 clamp(40px, 9vw, 80px)/1.15 var(--neon);
+  text-shadow:
+    0 0 6px #fff,
+    0 0 18px var(--neon-pink),
+    0 0 42px var(--neon-pink);
 }
 
 .cover .by {
-  margin: 0 0 28px;
-  color: var(--muted);
+  margin: 0;
+  color: #ffc4e1;
   font: italic 20px var(--serif);
 }
 
@@ -332,71 +429,88 @@ body.toc-open .drawer {
   font-size: 14px;
 }
 
+.cover .stats span::before {
+  content: "■ ";
+  color: var(--accent-2);
+}
+
 .cover h2 {
-  margin: 0 0 12px;
-  color: var(--muted);
-  font-size: 13px;
-  letter-spacing: .12em;
+  margin: 0 0 14px;
+  color: var(--accent);
+  font: 400 15px var(--display);
+  letter-spacing: .16em;
   text-transform: uppercase;
 }
 
 .cta {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 14px;
   margin-bottom: 56px;
 }
 
+/* Memphis-style buttons and cards: a solid border and a hard offset shadow
+   that grows on hover. */
 .primary,
 .secondary {
   display: inline-flex;
   align-items: center;
   padding: 11px 18px;
+  border: 2px solid var(--pop);
   border-radius: 10px;
+  box-shadow: 4px 4px 0 var(--pop);
   text-decoration: none;
+  transition: transform .12s, box-shadow .12s;
 }
 
 .primary {
   gap: 8px;
-  background: var(--accent);
-  color: var(--panel);
-  font-weight: 600;
+  background: linear-gradient(135deg, #ff7a3d, #ff2e88 60%, #c2189a);
+  color: #fff;
+  font: 400 17px var(--display);
+  letter-spacing: .03em;
 }
 
 .secondary {
-  border: 1px solid var(--line);
+  background: var(--panel);
   color: var(--text);
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .primary:hover,
 .secondary:hover {
-  filter: brightness(1.05);
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 var(--pop);
 }
 
 .parts {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 10px;
+  gap: 14px;
 }
 
 .parts a {
   display: block;
   padding: 14px 16px;
-  border: 1px solid var(--line);
+  border: 2px solid var(--line);
   border-radius: 10px;
   background: var(--panel);
   color: var(--text);
   text-decoration: none;
+  transition: transform .12s, box-shadow .12s, border-color .12s;
 }
 
 .parts a:hover {
-  border-color: var(--accent);
+  border-color: var(--pop);
+  box-shadow: 4px 4px 0 var(--accent-2);
+  transform: translate(-2px, -2px);
 }
 
 .parts b {
   display: block;
-  font: 600 17px var(--serif);
+  color: var(--accent);
+  font: 400 18px var(--display);
+  letter-spacing: .02em;
 }
 
 .parts span {
@@ -423,18 +537,23 @@ body.toc-open .drawer {
 }
 
 .chapter .part {
+  display: inline-block;
   margin: 0;
-  color: var(--accent);
-  font-family: var(--sans);
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: .12em;
+  padding-bottom: 4px;
+  border-bottom: 3px solid transparent;
+  border-image: var(--sunset) 1;
+  color: var(--accent-2);
+  font: 400 14px var(--display);
+  letter-spacing: .14em;
   text-transform: uppercase;
 }
 
 .chapter h1 {
-  margin: .25em 0 1.2em;
-  font: 600 1.9em/1.15 var(--serif);
+  margin: .4em 0 1.2em;
+  color: var(--text);
+  font: 400 2em/1.15 var(--display);
+  letter-spacing: .02em;
+  text-shadow: .07em .07em 0 color-mix(in srgb, var(--accent) 30%, transparent);
 }
 
 .prose {
@@ -464,7 +583,7 @@ body.toc-open .drawer {
 .prose .note {
   margin: .6em 0 1.2em;
   padding-left: .9em;
-  border-left: 2px solid var(--line);
+  border-left: 3px solid var(--accent-2);
   color: var(--muted);
   font-size: .82em;
   text-indent: 0;
@@ -479,7 +598,7 @@ body.toc-open .drawer {
 .nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 12px;
+  gap: 14px;
   max-width: 40em;
   margin: 0 auto;
   padding: 8px 20px 80px;
@@ -488,22 +607,25 @@ body.toc-open .drawer {
 .nav a {
   display: block;
   padding: 14px 16px;
-  border: 1px solid var(--line);
+  border: 2px solid var(--line);
   border-radius: 10px;
   background: var(--panel);
   color: var(--text);
   text-decoration: none;
+  transition: transform .12s, box-shadow .12s, border-color .12s;
 }
 
 .nav a:hover {
-  border-color: var(--accent);
+  border-color: var(--pop);
+  box-shadow: 4px 4px 0 var(--accent-2);
+  transform: translate(-2px, -2px);
 }
 
 .nav small {
   display: block;
-  color: var(--muted);
-  font-size: 12px;
-  letter-spacing: .08em;
+  color: var(--accent);
+  font: 400 12px var(--display);
+  letter-spacing: .1em;
   text-transform: uppercase;
 }
 
@@ -527,7 +649,7 @@ body.toc-open .drawer {
 
 
 /* ==========================================================================
-   Responsive and print
+   Responsive, motion and print
    ========================================================================== */
 
 @media (max-width: 560px) {
@@ -537,6 +659,28 @@ body.toc-open .drawer {
 
   .chapter {
     padding-top: 32px;
+  }
+
+  .hero-inner {
+    padding: 48px 16px 120px;
+  }
+
+  .cover-body {
+    padding: 32px 16px 72px;
+  }
+
+  .sun {
+    right: 12px;
+    width: 110px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .primary,
+  .secondary,
+  .parts a,
+  .nav a {
+    transition: none;
   }
 }
 

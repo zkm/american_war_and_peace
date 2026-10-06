@@ -98,30 +98,38 @@ export function coverHtml(book, resume) {
 
   return `
     <section class="cover">
-      <div class="kicker">An “americanized” edition</div>
-      <h1>${escapeHtml(book.title)}</h1>
-      <p class="by">${escapeHtml(book.author)}</p>
-      <p class="blurb">
-        Tolstoy’s novel of Russia during the Napoleonic wars, with a few “enhancements” of our own.
-        Pick up where you left off, or start in a Petersburg living room in July 1805.
-      </p>
+      <header class="hero">
+        <div class="sky" aria-hidden="true"><div class="sun"></div><div class="grid"></div></div>
+        <div class="hero-inner">
+          <div class="kicker">An “americanized” edition</div>
+          <h1>${escapeHtml(book.title)}</h1>
+          <p class="by">${escapeHtml(book.author)}</p>
+        </div>
+      </header>
 
-      <div class="stats">
-        <span>${book.parts.length} parts</span>
-        <span>${book.chapters.length} chapters</span>
-        <span>${Math.round(book.words / 1000)}k words</span>
-        <span>about ${readingTime(book.words)} of reading</span>
+      <div class="cover-body">
+        <p class="blurb">
+          Tolstoy’s novel of Russia during the Napoleonic wars, with a few “enhancements” of our own.
+          Pick up where you left off, or start in a Petersburg living room in July 1805.
+        </p>
+
+        <div class="stats">
+          <span>${book.parts.length} parts</span>
+          <span>${book.chapters.length} chapters</span>
+          <span>${Math.round(book.words / 1000)}k words</span>
+          <span>about ${readingTime(book.words)} of reading</span>
+        </div>
+
+        <div class="cta">${actions}</div>
+
+        <h2>Contents</h2>
+        <div class="parts">${book.parts.map(partCardHtml).join('')}</div>
+
+        <p class="foot">
+          Text from the Project Gutenberg edition of the Louise and Aylmer Maude translation,
+          edited in <a href="https://github.com/${REPO}">${REPO}</a>. Public domain in the U.S.
+        </p>
       </div>
-
-      <div class="cta">${actions}</div>
-
-      <h2>Contents</h2>
-      <div class="parts">${book.parts.map(partCardHtml).join('')}</div>
-
-      <p class="foot">
-        Text from the Project Gutenberg edition of the Louise and Aylmer Maude translation,
-        edited in <a href="https://github.com/${REPO}">${REPO}</a>. Public domain in the U.S.
-      </p>
     </section>`;
 }
 
